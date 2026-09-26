@@ -35,9 +35,7 @@ SecurePass/
 ├── password_analyzer.py
 ├── requirements.txt
 ├── README.md
+├── securepass-demo.png
 │
 └── templates/
     └── index.html
-
-## 📸 Demo
-![SecurePass Demo](securepass-demo.png)
